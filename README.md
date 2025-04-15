@@ -1,5 +1,13 @@
-## Hi there 👋
+Hi there 👋
 
+I'm Alicia Jarvis, a professional problem solver. I've worked as an IT accessibility consultant, quality assurance tester, inclusive designer, and product manager.
+
+Creating products and services people can use is extremely important to me.
+
+💬 Ask me about accessibility, inclusive design, or product management.
+👯‍♀️ I'm interested in helping with UI and UX for open source projects.
+🙌 Pronouns: She/her
+⚡ Fun fact: I have short arms
 <!--
 **AliciaJarvis/AliciaJarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
