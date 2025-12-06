@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Alicia Jarvis, a professional problem solver. I've worked as an IT accessibility consultant, quality assurance tester, inclusive designer, and product manager.
+I'm Alicia Jarvis, a senior technical product manager at Bell. I've worked as an IT accessibility consultant, quality assurance tester, inclusive designer, and product manager.
 
 Creating products and services people can use is extremely important to me.
 
